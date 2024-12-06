@@ -1,4 +1,4 @@
-# CopilotComparator
+# CopilotComparator | Calculator 1
 
 Using the prompt:
 Generate a simple calculator using HTML, CSS, and JavaScript.
